@@ -12,3 +12,4 @@ shellescape==3.8.1
 urllib3==1.25.8
 python-telegram-bot==12.6.1
 numpy==1.18.4
+opencv-python==4.4.0.42
