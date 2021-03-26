@@ -6,7 +6,7 @@ Naked==0.1.31
 Pillow==7.0.0
 pycryptodome==3.9.6
 pytesseract==0.3.2
-PyYAML==5.3
+PyYAML==5.4
 requests==2.7.0
 shellescape==3.8.1
 urllib3==1.25.8
